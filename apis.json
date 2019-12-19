@@ -1,0 +1,105 @@
+{
+    "name": "Issuu",
+    "description": "Millions of readers find and share the magazines, catalogs and publications they love on issuu.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/428-issuu.jpg",
+    "tags": [
+        "api provider",
+        "articles",
+        "books",
+        "content",
+        "content discovery",
+        "have api",
+        "magazines"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/issuu\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Issuu",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/428-issuu.jpg",
+            "humanURL": "http:\/\/issuu.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/issuu-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/issuu.com\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/issuu"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/developers.issuu.com\/"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/developer.issuu.com\/"
+        },
+        {
+            "type": "Email",
+            "url": "pr@issuu.com"
+        },
+        {
+            "type": "Email",
+            "url": "partnerships@issuu.com"
+        },
+        {
+            "type": "Email",
+            "url": "copyright@issuu.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@issuu.com"
+        },
+        {
+            "type": "Email",
+            "url": "careers@issuu.com"
+        },
+        {
+            "type": "Email",
+            "url": "feedback@issuu.com"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@issuu.com"
+        },
+        {
+            "type": "Email",
+            "url": "contact@issuu.com"
+        },
+        {
+            "type": "Embeddable",
+            "url": "https:\/\/developer.issuu.com\/oembed\/"
+        },
+        {
+            "type": "Rate Limits",
+            "url": "https:\/\/developer.issuu.com\/api-limits\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/issuu"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/issuu"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/issuu.com"
+        }
+    ]
+}
